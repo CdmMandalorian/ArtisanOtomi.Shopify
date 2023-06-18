@@ -281,7 +281,6 @@ pnpm dev --tunnel-url https://randomly-generated-hostname.trycloudflare.com:3000
 <div align="center">
   <img alt="Demo" src="./assets/AOShopifyCheckoutCart.png" />
 </div>
-<br/>
 
 ### Show your support
 
